@@ -1,0 +1,11 @@
+
+„
+java:S1488("bImmediately return this expression instead of assigning it to the temporary variable "studentDto".(µÌ¶ÿÿÿÿÿ8—ÖÖÀ£2
+r
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ëôæıÿÿÿÿ8 ÖÖÀ£2
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8§ÖÖÀ£2
+W
+java:S1611"5Remove the parentheses around the "student" parameter(ĞòÊ£úÿÿÿÿ8§ÖÖÀ£2
+m
+java:S1612"KReplace this lambda with method reference 'StudentMapper::mapToStudentDto'.(ĞòÊ£úÿÿÿÿ8¨ÖÖÀ£2
